@@ -1,0 +1,1 @@
+A basic Android App with only one user interface where a user chooses a color through the spinner and click button and the app suggest name of beers.
